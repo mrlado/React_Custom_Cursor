@@ -1,0 +1,10 @@
+
+.cursor{
+    background-color: #8330c2;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
